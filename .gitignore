@@ -1,0 +1,9 @@
+# pytest 测试报告目录
+report/
+
+# 虚拟环境
+.venv/
+venv/
+
+# IDE配置（可选，看你需求）
+.idea/
